@@ -1,5 +1,6 @@
 # Commerce-Site
-Commerce-Site is commerce site like amazon and daraz on Django where users can upload items for bidding as well as bid on items of other users 
+Commerce-Site is commerce site like amazon and daraz on Django where users can upload items for bidding as well as bid on items of other users.
+It is part of CS50 Web Programming with Python and JavaScript project-02
 ## Requirements
 You must have **Django** extension in vscode along with **python3** installed in your system.
 ## Instructions to run code
